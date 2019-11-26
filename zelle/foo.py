@@ -1,6 +1,5 @@
 print("before import")
 import math
-print(math)
 
 print("before functionA")
 def functionA():
